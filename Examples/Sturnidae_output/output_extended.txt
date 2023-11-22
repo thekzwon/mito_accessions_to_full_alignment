@@ -1,0 +1,23 @@
+
+Sturnus cineraceus ND2 had to be trimmed! Was not divisible  by three.
+Sturnus cineraceus COX3 had to be trimmed! Was not divisible  by three.
+Sturnus cineraceus ND4 had to be trimmed! Was not divisible  by three.
+Leucopsar rothschildi ND2 had to be trimmed! Was not divisible  by three.
+Leucopsar rothschildi COX3 had to be trimmed! Was not divisible  by three.
+Leucopsar rothschildi ND4 had to be trimmed! Was not divisible  by three.
+Buphagus erythrorhynchus ND2 had to be trimmed! Was not divisible  by three.
+Buphagus erythrorhynchus COX3 had to be trimmed! Was not divisible  by three.
+Buphagus erythrorhynchus ND4 had to be trimmed! Was not divisible  by three.
+Gracula religiosa ND2 had to be trimmed! Was not divisible  by three.
+Gracula religiosa COX3 had to be trimmed! Was not divisible  by three.
+Gracula religiosa ND3 had to be trimmed! Was not divisible  by three.
+Gracula religiosa ND4 had to be trimmed! Was not divisible  by three.
+Sturnus sericeus ND2 had to be trimmed! Was not divisible  by three.
+Sturnus sericeus COX3 had to be trimmed! Was not divisible  by three.
+Sturnus sericeus ND4 had to be trimmed! Was not divisible  by three.
+Sturnus vulgaris ND2 had to be trimmed! Was not divisible  by three.
+Sturnus vulgaris COX3 had to be trimmed! Was not divisible  by three.
+Sturnus vulgaris ND4 had to be trimmed! Was not divisible  by three.
+Acridotheres cristatellus ND2 had to be trimmed! Was not divisible  by three.
+Acridotheres cristatellus COX3 had to be trimmed! Was not divisible  by three.
+Acridotheres cristatellus ND4 had to be trimmed! Was not divisible  by three.

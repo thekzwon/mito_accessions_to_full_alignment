@@ -1,0 +1,55 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC 10:
+;
+;   Kumar S, Stecher G, Li M, Knyaz C, Tamura K
+;   MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms
+;   Molecular Biology and Evolution (2018) 35:1547-1549
+;
+;   Kumar S, Stecher G, Peterson D, and Tamura K
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics
+;   Analysis Program for Automated and Iterative Data Analysis.
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+[Application Info]
+
+	Version                                 = 10.2.6
+	Build                                   = 10210527-x86_64
+	User Interface                          = CommandLine
+	Operating System                        = mac
+
+[General Info]
+
+	Data Type                               = nucleotide (coding)
+	No. of Taxa                             =        7
+	Data File                               = '/Users/z739/Desktop/Sturnidae/Sturnidae_genes/ND4L.fa'
+	Settings File                           = '/Users/z739/Desktop/Sturnidae/muscle_align_coding_vert_mito.mao'
+	Command Line                            = megacc -a /Users/z739/Desktop/Sturnidae/muscle_align_coding_vert_mito.mao -d /Users/z739/Desktop/Sturnidae/Sturnidae_genes/ND4L.fa -o /Users/z739/Desktop/Sturnidae/Sturnidae_genes_aligned/ND4L_aligned.fa -f fasta
+
+[Analysis Settings]
+
+	Gap Penalties                           = ====================
+	Gap Open                                = -2.90
+	Gap Extend                              = 0.00
+	Hydrophobicity Multiplier               = 1.20
+	Memory/Iterations                       = ====================
+	Max Memory in MB                        = 2048
+	Max Iterations                          = 16
+	Advanced Options                        = ====================
+	Genetic Code                            = Vertebrate Mitochondrial
+	Cluster Method (Iterations 1,2)         = UPGMA
+	Cluster Method (Other Iterations)       = UPGMA
+	Min Diag Length (Lambda)                = 24
+	GeneticCodeTable                        = FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIMMTTTTNNKKSS**VVVVAAAADDEEGGGG
+	datatype                                = snNucleotide
+	containsCodingNuc                       = True
+	missingBaseSymbol                       = ?
+	identicalBaseSymbol                     = .
+	gapSymbol                               = -
+
+[Analysis Statistics]
+
+	Start Time                              = 22-11-23 12:38:57
+	End Time                                = 22-11-23 12:38:57
+	Execution Time                          =    0.030 (seconds)
+	Max Heap Memory Used                    = 7.482 (MB)
