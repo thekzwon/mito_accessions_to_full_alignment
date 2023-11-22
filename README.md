@@ -24,7 +24,7 @@ Each of the 13 genes are then aligned using mega using translational align. More
 Finally, each of the 13 genes are concatenated into one big alignment.  
 
 ### Requirements:
--Python3(Packages Entrez and SeqIO from Bio, csv, os, translate from Bio.Seq, itertools, and argparse)
+-Python3(Packages Entrez and SeqIO from Bio, csv, os, translate from Bio.Seq, itertools, and argparse)  
 -installation of megacc (https://www.megasoftware.net/). This script generates commands that use megacc.
 
 
